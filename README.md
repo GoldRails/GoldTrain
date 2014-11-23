@@ -2,5 +2,7 @@ GoldTrain
 =========
 
 Rails Generator under microscope
-firsr commit
-repo git@github.com:GoldRails/GoldTrain.git
+
+![](https://github.com/GoldRails/GoldTrain/blob/master/GoldTrain.jpg)
+
+repo `git@github.com:GoldRails/GoldTrain.git`
